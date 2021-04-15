@@ -1,0 +1,115 @@
+{
+  "usuario": [
+    {
+      "id": "emerson@gmail.com",
+      "nome": "Emerson Pinheiro",
+      "email": "emersonline2007@gmail.com",
+      "senha": "123456",
+      "cep": "69028347",
+      "rua": "Rua Ademar de Barros",
+      "numero": "20",
+      "bairro": "Flores",
+      "cidade": "Manaus",
+      "estado": "AM"
+    },
+    {
+      "id": "evelyn@gmail.com",
+      "nome": "Evelyn Monteiro de Souza",
+      "senha": "123",
+      "rua": "Rua Ali Perto",
+      "cep": "69028347",
+      "numero": "20",
+      "estado": "AM",
+      "cidade": "Amazonas"
+    },
+    {
+      "id": "maria@gmail.com",
+      "nome": "Maria Pinheiro de Souza",
+      "email": "maria@gmail.com",
+      "senha": "123456",
+      "cep": "69028347",
+      "rua": "Rua Ademar de Barros",
+      "numero": "20",
+      "bairro": "Flores",
+      "cidade": "Manaus",
+      "estado": "AM"
+    }
+  ],
+  "produto": [
+    {
+      "id": "mouse",
+      "nome": "Mouse",
+      "usuario_id": "emerson@gmail.com",
+      "preco": "58",
+      "vendido": "true",
+      "descricao": "Esse é um novo mouse",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone Samsung",
+      "usuario_id": "emerson@gmail.com",
+      "preco": "5852",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "emerson@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "nome": "",
+      "preco": "",
+      "descricao": "",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "yoLkFgg"
+    },
+    {
+      "nome": "",
+      "preco": "",
+      "descricao": "",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "pHjj0BI"
+    },
+    {
+      "nome": "",
+      "preco": "",
+      "descricao": "",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "6IAVHOH"
+    },
+    {
+      "nome": "IPhone",
+      "preco": "4500",
+      "descricao": "Smartphone: 64GB de Ram + 120GB de armazenamento + Câmera de 128MP ",
+      "fotos": null,
+      "usuario_id": "emerson@gmail.com",
+      "id": "B4Wpco9"
+    },
+    {
+      "nome": "Monitor",
+      "preco": "350",
+      "descricao": "25\" Colorido Smart",
+      "fotos": null,
+      "usuario_id": "",
+      "id": "6XFao7E"
+    },
+    {
+      "nome": "Computador ",
+      "preco": "1500",
+      "descricao": "4GB de Ram + 120GB de HD",
+      "fotos": null,
+      "usuario_id": "evelyn@gmail.com",
+      "id": "v2hJ9FY"
+    }
+  ]
+}
